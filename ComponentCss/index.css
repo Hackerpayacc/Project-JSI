@@ -1,0 +1,79 @@
+#carouselExampleIndicators {
+  z-index: 1;
+  padding-top: 100px;
+  /* padding-bottom: 50px; */
+  width: 40%;
+  height: 40%;
+  padding-bottom: 10px;
+}
+.gRCeBZ {
+  text-decoration: none;
+  color: black;
+}
+.carousel {
+  display: flex;
+  justify-content: center;
+}
+.image-carousel__item-img > img {
+  width: 150px;
+  height: 150px;
+}
+.kqZ9K9 {
+  display: flex;
+  justify-content: space-around;
+  width: 250px;
+  height: 150px;
+  flex-wrap: wrap;
+  text-decoration: none;
+}
+.kqZ9K9:hover {
+  background-color: gray;
+}
+.image-carousel__item {
+  list-style: none;
+}
+.image-carousel__item-list {
+  display: flex;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+.advert {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.container-advertisement {
+  display: flex;
+  justify-content: center;
+  width: 1000px;
+  height: fit-content;
+  padding-top: 10px;
+  background-color: rgb(243, 243, 243);
+}
+.advertisement {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex: 1;
+}
+.advertisement > img {
+  width: 50px;
+  height: 50px;
+}
+.Advantage-Heading {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.375rem;
+}
+.Advantage-Sub-heading {
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 0.8125rem;
+  line-height: 1.125rem;
+}
